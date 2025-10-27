@@ -132,7 +132,7 @@ Admin emails are configured in:
 - 20220654965shimul1@juniv.edu
 - 20220654976oywon@juniv.edu
 - 20220654977ahad@juniv.edu
-- 20220655000mymuna@juniv.edu
+- 20220655000nusaiba@juniv.edu
 
 ## Features Detail
 
