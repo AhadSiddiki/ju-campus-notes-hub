@@ -1,0 +1,13 @@
+# Protect upload directory from direct access
+# Files can only be downloaded through download-handler.php
+
+# Deny direct access to all files
+<Files "*">
+    Order Deny,Allow
+    Deny from all
+</Files>
+
+# Allow PHP to access files
+<FilesMatch "\.php$">
+    Allow from all
+</FilesMatch>
